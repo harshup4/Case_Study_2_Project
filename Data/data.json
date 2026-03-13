@@ -3,12 +3,12 @@
    {
         "firstname": "Harsh",
         "lastname": "Test",
-        "email": "harshup13@yopmail.com",
+        "email": "harshup16@yopmail.com",
         "password":"Tcs1234%"
     },
     "login_data":
     {
-        "email": "harshup13@yopmail.com",
+        "email": "harshup16@yopmail.com",
         "password":"Tcs1234%"
     }
 }
